@@ -39,7 +39,7 @@
 
 ## II. Installation
 ### A. Clone the project
-` $ git clone https://github.com/Apereo-Learning-Analytics-Initiative/OpenLRW.git `
+` $ git clone https://github.com/letresearchunit/OpenLRW.git `
 
 ### B. Using Maven for development purposes
 ` $ mvn clean package spring-boot:run `
