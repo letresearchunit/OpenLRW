@@ -78,7 +78,7 @@ This is a one time operation. Note you'll need to update the git command below w
 
 ```bash
 $ cd /opt/openlrw/src
-$ git clone https://github.com/Apereo-Learning-Analytics-Initiative/OpenLRW
+$ git clone https://github.com/letresearchunit/OpenLRW
 ```
 
 #### 4. Build Script (build.sh)
